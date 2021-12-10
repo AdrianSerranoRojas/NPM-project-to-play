@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AdrianSerranoRojas/NPM-project-to-play/issues"
   },
-  "homepage": "https://github.com/AdrianSerranoRojas/NPM-project-to-play#readme"
+  "homepage": "https://github.com/AdrianSerranoRojas/NPM-project-to-play#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }

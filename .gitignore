@@ -3,7 +3,11 @@
 
 # Ada Library Information
 *.ali
+<<<<<<< HEAD
 
 # node_modules
 
 node_modules
+=======
+node_modules
+>>>>>>> b9c275f0d47a4421eabdf953a7427b15efad1198
